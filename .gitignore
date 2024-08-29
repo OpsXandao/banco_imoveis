@@ -1,5 +1,7 @@
 # Ignorar arquivos de planilhas Excel
 *.xlsx
+imoveis.xlsx
+
 
 # Ignorar arquivos temporários do sistema
 .DS_Store
