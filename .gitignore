@@ -1,0 +1,14 @@
+# Ignorar arquivos de planilhas Excel
+*.xlsx
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de cache e configurações locais
+__pycache__/
+*.py[cod]
+
+# Ignorar ambientes virtuais
+env/
+venv/
